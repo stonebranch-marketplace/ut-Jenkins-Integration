@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2020-07-08 15:24:07" unload_format="1" unload_table="ops_unv_tmplt" unload_version="6.8.0.0"><ops_unv_tmplt action="INSERT_OR_UPDATE"><credentials_var/><agent>aa288d4fa10945dd895038893cf96b2d</agent><icon_date_created>2020-05-20 10:44:04</icon_date_created><sys_updated_on>2020-06-12 13:17:21</sys_updated_on><output_return_text/><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-05-20 10:44:04</sys_created_on><agent_cluster_var/><agent_cluster_var_check>false</agent_cluster_var_check><wait_for_output>false</wait_for_output><sys_created_by>Ravi</sys_created_by><output_return_nline>100</output_return_nline><exit_code_text/><exit_code_fr>0</exit_code_fr><runtime_dir/><output_return_type>1</output_return_type><script/><broadcast_cluster_var_check>false</broadcast_cluster_var_check><agent_type>2</agent_type><script_type_windows/><automatic_output_fr>0</automatic_output_fr><agent_cluster/><name>Jenkins</name><exit_codes>0</exit_codes><broadcast_cluster/><use_common_script>false</use_common_script><credentials>1211ec95ae8442539849496c3e040152</credentials><icon_filesize>3815</icon_filesize><icon>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</icon><credential_fr>0</credential_fr><description>Control Jenkins operation from universal controller</description><environment_variables_fr>0</environment_variables_fr><agent_var/><icon_filename>output-onlinepngtools.png</icon_filename><sys_id>966d9c10da6f4a339d39c07b5c7851e7</sys_id><variable_prefix>ci</variable_prefix><system_template>false</system_template><script_windows/><credentials_var_check>false</credentials_var_check><agent_fr>0</agent_fr><agent_var_check>false</agent_var_check><output_failure_only>false</output_failure_only><output_return_sline>1</output_return_sline><output_type>1</output_type><desktop_interact>false</desktop_interact><script_unix>#!/usr/bin/python3
+#/opt/universal/python3.6/bin/python3
+###########################################################
+#    Name: Jenkins_UT.py
+#
+#    Purpose: 
+#           1. Trigger Jenkins build 
+#           2. Get last build info
+#           3. Set next build number
+#           4. Enable/Disable Job
+#           5. Enable/Disable Node
+#           6. Delete Build
+#           7. Create new Jenkins Job
+#           8. Copy/Rename a Jenkins Job
+#           9. list running build
+#
+#    Prerequisites:
+#     - Universal Agent for Windows/Linux
+#     - Python 3
+#     - Requires the Python modules
+#     - datetime, jenkins, sys
+#     - Note: module can be added using pip
+#     - e.g. use: pip install Jenkins
+#
+#     Version History:
+#     0.1  Ravi Murugesan 2020-06-2020 Initial Version
+####################################################
+version = "0.1"
+
+# Used modules
+
+import re
+import glob
+import sys, os
+import datetime, time
+import logging
+import jenkins
+import argparse
+
+# -- loglevel settings INFO,DEBUG, WARNING, ERROR, CRITICAL
+
+logging.basicConfig(level=logging.INFO, format=' %(asctime)s - %(levelname)s - %(message)s')
+
+def main():
+    Set_Variables()  # -- Set Variables from Universal Task Form or Command Line Input
+    if args.jenkins_function == "get_build_info":
+        get_build_info()
+    elif args.jenkins_function == "copy_job":
+        copy_job()
+    elif args.jenkins_function == "rename_job":
+        rename_job()
+    elif args.jenkins_function == "get_last_build_number":
+        get_last_build_number()
+    elif args.jenkins_function == "update_next_build_number":
+        update_next_build_number()
+    elif args.jenkins_function == "start_build":
+        start_build()
+    elif args.jenkins_function == "list_running_builds":
+        list_running_builds()
+    elif args.jenkins_function == "delete_job":
+        delete_job()
+    elif args.jenkins_function == "enable_node":
+        enable_node()
+    elif args.jenkins_function == "disable_node":
+        disable_node()
+    elif args.jenkins_function == "enable_job":
+        enable_job()
+    elif args.jenkins_function == "disable_job":
+        disable_job()
+    elif args.jenkins_function == "create_new_job":
+        create_new_job()
+    elif args.jenkins_function == "get_output_build":
+        get_output_build()
+    elif args.jenkins_function == "get_plugins":
+        get_plugins()
+    elif args.jenkins_function == "install_plugin":
+        install_plugin()
+# --
+def Set_Variables():
+    parser = argparse.ArgumentParser(description='Purpose : Execute a Jenkins function')
+    # ## --&gt; Jenkins Connection Settings:
+    parser.add_argument("--jenkins_credentials_user", default="${_credentialUser('${ops_ci_jenkins_credentials}')}")
+    parser.add_argument("--jenkins_credentials_password", default="${_credentialPwd('${ops_ci_jenkins_credentials}')}")
+
+    # ## --&gt;Jenkins Universal Task Settings
+    parser.add_argument("--jenkins_url", default="${ops_ci_jenkins_url}")
+    parser.add_argument("--jenkins_function", default="${ops_ci_jenkins_function}")
+    parser.add_argument("--jenkins_jobname", default="${ops_ci_jenkins_jobname}")
+    parser.add_argument("--job_token", default="${ops_ci_job_token}")
+    parser.add_argument("--job_inp_parm", default="${ops_ci_job_inp_parm}")
+    parser.add_argument("--config_file_text", default="${ops_ci_config_file_text}")
+    parser.add_argument("--rename_job", default="${ops_ci_rename_job}")
+    parser.add_argument("--from_job", default="${ops_ci_from_job}")
+    parser.add_argument("--to_job", default="${ops_ci_to_job}")
+    parser.add_argument("--enable_node", default="${ops_ci_enable_node}")
+    parser.add_argument("--disable_node", default="${ops_ci_disable_node}")
+    parser.add_argument("--delete_job", default="${ops_ci_delete_job}")
+    parser.add_argument("--next_build_number", default="${ops_ci_next_build_number}")
+    parser.add_argument("--enable_job", default="${ops_ci_enable_job}")
+    parser.add_argument("--disable_job", default="${ops_ci_disable_job}")
+    parser.add_argument("--build_number", default="${ops_ci_build_number}")
+    parser.add_argument("--timeout", default="${ops_ci_timeout}")
+    parser.add_argument("--plugin_name", default="${ops_ci_plugin_name}")
+    ###########Set the default timeout to 10 seconds if not specified in the input#######################
+    # ## --
+    global args
+    args = parser.parse_args()
+    # -- Setup Logging
+    logging.info("Executing version " + version + " with the following paramaters")
+    logging.info(args)
+    if not args.timeout:
+        args.timeout="10"
+        logging.info("Jenkins connection timeout default set to "+str(args.timeout)+"secs")
+    else:
+        logging.info("Jenkins connection timeout set to "+str(args.timeout)+"secs")
+# --
+# --
+#################################################################
+# function to Install a Jenkins Plugin
+#################################################################
+def install_plugin():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        logging.info("Plugin to be installed is :"+args.plugin_name)
+        if not args.plugin_name:
+            logging.error("Please provide a plugin name to install in jenkins Master")
+            sys.exit(1)
+        else:
+            info=server.install_plugin(args.plugin_name)
+            logging.info("Plugin Install Info: "+info)
+    except Exception as e:
+        logging.error("Error in Installing the plugin the plugins info "+info)
+        logging.error(e)
+        sys.exit(1)
+#################################################################
+# function to get the Jenkins plugin list
+#################################################################
+def get_plugins():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        plugins_info=server.get_plugins_info()
+        #logging.info("Installed Plugins in Master: "+str(plugins_info))
+        for plugin in plugins_info:
+            plugin_name=plugin['longName']
+            plugin_version=plugin['version']
+            plugin_url=plugin['url']
+            print (plugin_name+"==&gt;"+ plugin_version+"==&gt;" +plugin_url)
+    except Exception as e:
+        logging.error("Error in getting the plugins info")
+        logging.error(e)
+        sys.exit(1)
+
+#################################################################
+# function to get the Jenkins Build info
+#################################################################
+def get_output_build():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        build_console_output=server.get_build_console_output(args.jenkins_jobname ,int(args.build_number))
+        logging.info("Build Console Output: "+build_console_output)
+    except Exception as e:
+        logging.error("Error in getting the build info")
+        logging.error(e)
+        sys.exit(1)
+#################################################################
+# function to get the Jenkins Build info
+#################################################################
+def get_build_info():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        build_info = server.get_build_info(args.jenkins_jobname ,int(args.build_number))
+        logging.info("Build for Job: "+args.jenkins_jobname+" Build Number:"+args.build_number+" :"+ str(build_info))
+        print ("Requested Build info Details:",build_info)
+    except Exception as e:
+        logging.error("Error in getting the build info")
+        logging.error(e)
+        sys.exit(1)
+#################################################################
+# Get the last build Number for a Jenkin Job
+#################################################################
+def get_last_build_number():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        last_build_number = server.get_job_info(args.jenkins_jobname)['lastCompletedBuild']['number']
+        logging.info("Last Completed Build for Job: "+args.jenkins_jobname+" is "+ str(last_build_number))
+        print("Last completed Build Number:",last_build_number)
+    except Exception as e:
+        logging.error("Error in getting the Last completed build info")
+        logging.error(e)
+        sys.exit(1)
+#################################################################
+# Trigger a build in jenkins by starting a Jenkins Job
+#################################################################
+def start_build():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        #Get Next Build Number before triggering the build
+        next_build_number = server.get_job_info(args.jenkins_jobname)['nextBuildNumber']
+        logging.info("Next Build Number for Job: "+args.jenkins_jobname+" is :"+str(next_build_number))
+        get_queue_item=server.build_job(args.jenkins_jobname)
+        time.sleep(10)
+        ### Default setting the build indicator to False
+        build_indicator=False
+        build_info=server.get_build_info(args.jenkins_jobname ,next_build_number)
+        build_indicator=build_info['building']
+        build_result=build_info['result']
+        print("Building Indicator:",build_info['building'])
+        print("Build_info_ID:",build_info['id'])
+        print("Build_result_status: ",build_info['result'])
+        try:
+            while build_indicator:
+                build_info=server.get_build_info(args.jenkins_jobname ,next_build_number)
+                build_indicator=build_info['building']
+                build_result=build_info['result']
+                #print("build Result:",build_result)
+                if build_indicator:
+                    #build is still in progress - poll after 10 seconds to check the build status
+                    time.sleep(10)
+                else:
+                    #Build process is completed , Get the Build status
+                    print("Build finished with result: ",build_info['result'])
+                    break
+            build_console_output=server.get_build_console_output(args.jenkins_jobname ,next_build_number)
+            if(build_result != "SUCCESS"):
+                logging.info("Build Finished with status :"+build_result)
+                logging.error("Build Console Output: "+build_console_output)
+                sys.exit(1)
+            else:
+                logging.info("Build Finished with status :"+build_result)
+                logging.info("Build Console Output: "+build_console_output)
+        except Exception as e:
+            logging.error("Error in Getting the Build results")
+            logging.error(e)
+            sys.exit(1)
+    except Exception as e:
+        logging.error("Error in starting Jenkins Build")
+        logging.error(e)
+        sys.exit(1)
+#######################################################################
+# Function to perform the Jenkins job copy
+#######################################################################
+def copy_job():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        server.copy_job(args.from_job,args.to_job)
+        logging.info(args.from_job+" successfully copied to a new Job :"+args.to_job)
+    except Exception as e:
+        logging.error("Error in copying the existing job to New Job")
+        logging.error(e)
+        sys.exit(1)
+#######################################################################
+# Function to perform the Jenkins job Rename
+#######################################################################
+def rename_job():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        server.rename_job(args.rename_job,args.to_job)
+        logging.info(args.rename_job +" Renamed as :"+args.to_job)
+    except Exception as e:
+        logging.error("Error in Renaming the job")
+        logging.error(e)
+        sys.exit(1)
+#######################################################################
+# Function to enable a jenkins Job
+#######################################################################
+def enable_job():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        server.enable_job(args.enable_job)
+        logging.info("#########################################")
+        logging.info(args.enable_job +" is enabled")
+        logging.info("#########################################")
+    except Exception as e:
+        logging.error("Error in enabling the Job:"+args.jenkins_jobname)
+        logging.error(e)
+        sys.exit(1)
+#######################################################################
+# Function to disable a jenkins Job
+#######################################################################
+def disable_job():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        server.disable_job(args.disable_job)
+        logging.info("#########################################")
+        logging.info(args.disable_job +" is disabled")
+        logging.info("#########################################")
+    except Exception as e:
+        logging.error("Error in disablig the job")
+        logging.error(e)
+        sys.exit(1)
+#######################################################################
+# Function to enable a jenkins Node
+#######################################################################
+def enable_node():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        server.enable_node(args.enable_node)
+        logging.info("#########################################")
+        logging.info(args.enable_node +" is enabled")
+        logging.info("#########################################")
+    except Exception as e:
+        logging.error("Error in enabling the Jenkins Node")
+        logging.error(e)
+        sys.exit(1)
+#######################################################################
+# Function to disable a jenkins Node
+#######################################################################
+def disable_node():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        server.disable_node(args.disable_node)
+        logging.info("#########################################")
+        logging.info(args.disable_node +" is disabled")
+        logging.info("#########################################")
+    except Exception as e:
+        logging.error("Error in disabling the Jenkins Node")
+        logging.error(e)
+        sys.exit(1)
+######################################################################
+# Function to see the list of building that are running
+######################################################################
+def list_running_builds():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        running_builds=server.get_running_builds()
+        logging.info("#########################################")
+        logging.info("##running Builds: ##"+str(running_builds))
+        logging.info("#########################################")
+    except Exception as e:
+        logging.error("Error in Getting the Running build info")
+        logging.error(e)
+        sys.exit(1)
+#########################################################################
+# Function to set the next build number for Jenkins job
+#########################################################################
+def update_next_build_number():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        last_build = server.get_job_info(args.jenkins_jobname)['lastCompletedBuild']['number']
+        next_build=last_build+int(args.next_build_number)
+        logging.info("Last Completed build :"+str(last_build)+" New Build number is: "+str(next_build))
+        server.set_next_build_number(args.jenkins_jobname, last_build + int(args.next_build_number))
+        logging.info("#####################################################################")
+        logging.info("## Next Build Number for Job: "+args.jenkins_jobname+"is :"+next_build)
+        logging.info("######################################################################")
+    except Exception as e:
+        logging.error("Error in setting the Next build number")
+        logging.error(e)
+        sys.exit(1)
+###########################################################################
+# Function to delete a build that was executed before
+###########################################################################
+def delete_job():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        logging.info("#############Initiating delete build function############################")
+        server.delete_job(args.delete_job)
+        logging.info("#########################################################################")
+        logging.info("## Job: "+args.delete_job+" is deleted permanently")
+        logging.info("######################################################################")
+    except Exception as e:
+        logging.error("Error in Deleting the job: "+args.delete_job)
+        logging.error(e)
+        sys.exit(1)
+#############################################################################
+# Function to create a New Jenkins Job 
+############################################################################
+def create_new_job():
+    try:
+        server = jenkins.Jenkins(args.jenkins_url, username=args.jenkins_credentials_user, password=args.jenkins_credentials_password,timeout=int(args.timeout))
+        user = server.get_whoami()
+        version = server.get_version()
+        logging.info('Jenkins Version: %s  Username: %s' %(version,user['fullName']))
+        logging.info("#############Initiating Jenkins Job Creation ############################")
+        print("script to execute: ",args.config_file_text)
+        script = open(r'''${_scriptPath('${ops_ci_config_file_text}')}''', 'r')
+        script_data = script.read()
+        server.create_job(args.jenkins_jobname,script_data)
+        logging.info("*****"+args.jenkins_jobname+" Created Successfully")
+    except Exception as e:
+        logging.error("Error in creating the job: "+args.jenkins_jobname)
+        logging.error(e)
+        sys.exit(1)
+
+# -- Execute
+main()
+</script_unix><output_return_file/><run_as_sudo>false</run_as_sudo><broadcast_cluster_var/><environment/><elevate_user>false</elevate_user><exit_code_output/><exit_code_processing>1</exit_code_processing><create_console>false</create_console><related_items_node><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 13:48:03</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>06feb8c891a6431db2774b05aa75b854</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:06:19</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>Enable Node</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>10</sequence><show_if_field_value>enable_node</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>specify the node that needs to be enabled</hint><field_mapping>textField7</field_mapping><name>enable_node</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-09 15:39:11</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>3b7d7bd952514bce858c2c8d6ad0c05e</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-05-20 11:34:52</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>Jenkins JobName</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>3</sequence><show_if_field_value>get_build_info,start_build,create_new_job,update_next_build_number,get_last_build_number,delete_build,get_output_build</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField1</field_mapping><name>jenkins_jobname</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 13:11:26</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>3e956d3425ce4b558866d7ea190c1413</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-05-20 11:36:19</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>3</form_col_span><field_length/><form_end_row>true</form_end_row><label>Jenkins Job Parameters</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>4</sequence><show_if_field_value>start_build</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField2</field_mapping><name>job_inp_parm</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-06-07 20:14:19</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>42da4e2d9d124fcab252ddceacc14431</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:14:19</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Next Build Number(+ Last Build Number)</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>13</sequence><show_if_field_value>update_next_build_number</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>should be greater than the last builder otherwise jenkins will ignore the request</hint><field_mapping>textField10</field_mapping><name>next_build_number</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 13:11:45</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>4dfcec251bfc459fa7be3ecacae18925</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:03:50</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>Rename Job</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>7</sequence><show_if_field_value>rename_job</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>specify the job name that needs to be renamed</hint><field_mapping>textField6</field_mapping><name>rename_job</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-06-09 15:38:53</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>5b7b4f16be2048328f74bf4df4e40a17</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:38:43</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Jenkins Build Number</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>16</sequence><show_if_field_value>delete_build,get_build_info,get_output_build</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Jenkins build number for the job(int)</hint><field_mapping>textField13</field_mapping><name>build_number</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-06-07 21:41:50</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>633688a52aeb41269a1a988229c7883f</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 19:11:24</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Jenkins-Function</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>2</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>select a function that needs to be executed in jenkins</hint><field_mapping>choiceField1</field_mapping><name>jenkins_function</name><field_regex/><field_type>4</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 14:12:10</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>7febfe8ebc9742faae4c605ce47f1c0d</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:21:16</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>Enable Job</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>14</sequence><show_if_field_value>enable_job</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Specify the job name that needs to be enabled</hint><field_mapping>textField11</field_mapping><name>enable_job</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 13:48:10</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>8b67d10d1def4c0aa6e38a56c351bbaa</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:07:00</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>Disable Node</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>11</sequence><show_if_field_value>disable_node</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>textField8</field_mapping><name>disable_node</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 14:12:17</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>9a7aeb9ee4e3404d951eacd9f217f849</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:22:38</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>Disable Job</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>15</sequence><show_if_field_value>disable_job</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>specify the job that needs to be disabled</hint><field_mapping>textField12</field_mapping><name>disable_job</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-06-07 21:40:39</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>ac63fc3926cf4facbc2b5e3f00fbe586</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-05-20 11:37:00</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Jenkins URL</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>0</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Provide the Jenkins Host URL e.g: http://localhost:8080</hint><field_mapping>textField3</field_mapping><name>jenkins_url</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 13:07:39</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>b092aa6b84574875a5baec7e24fc78ad</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:02:45</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>To JobName</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>9</sequence><show_if_field_value>copy_job,rename_job</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>copy/rename to a new Job Name eg: demo_job or folder/demo_job</hint><field_mapping>textField5</field_mapping><name>to_job</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-06-09 15:21:32</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>b4de0f8fd2f242a5bec08dbb7f81e480</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-09 15:21:32</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>Jenkins Connection Timeout(in secs)</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>17</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Specify the connection time out interval in seconds</hint><field_mapping>intField1</field_mapping><name>timeout</name><field_regex/><field_type>2</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-06-08 13:11:26</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>b8e1b55128e5480f9226af585521751b</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-05-20 11:35:41</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Authentication Token -Jenkin Job</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>5</sequence><show_if_field_value>start_build</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Provide the Authentication token the for the Jenkin Job</hint><field_mapping>credentialField1</field_mapping><name>job_token</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-07 20:30:10</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>bfa657fe44e84d43a86bcd2bf420ef1d</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 19:43:09</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>3</form_col_span><field_length/><form_end_row>true</form_end_row><label>Config XML</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>6</sequence><show_if_field_value>create_new_job</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint/><field_mapping>scriptField1</field_mapping><name>config_file_text</name><field_regex/><field_type>6</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>false</form_start_row><sys_updated_on>2020-05-20 11:37:56</sys_updated_on><boolean_value_type>1</boolean_value_type><required>true</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>cc27a34409ae404c9fd33552a8db04fc</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-05-20 11:37:42</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field/><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Jenkins Credentials</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>1</sequence><show_if_field_value/><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Jenkins User Credentials</hint><field_mapping>credentialField2</field_mapping><name>jenkins_credentials</name><field_regex/><field_type>5</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-09 17:46:42</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>d1760db91a7148f0ba6221e3d718d113</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-09 16:20:54</sys_created_on><field_value/><no_space_if_hidden>false</no_space_if_hidden><require_if_visible>false</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>false</form_end_row><label>Jenkins Plugin Name</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>18</sequence><show_if_field_value>install_plugin</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Provide the Jenkin Plugin short name to be installed</hint><field_mapping>textField14</field_mapping><name>plugin_name</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 16:48:56</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>e54ffe54dcad4179a787882fb8577126</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:11:19</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>Delete Job</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>12</sequence><show_if_field_value>delete_job</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>Specify that needs to be deleted in Jenkins</hint><field_mapping>textField9</field_mapping><name>delete_job</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field action="INSERT_OR_UPDATE"><choice_sort_option>1</choice_sort_option><form_start_row>true</form_start_row><sys_updated_on>2020-06-08 13:06:46</sys_updated_on><boolean_value_type>1</boolean_value_type><required>false</required><field_mask/><boolean_no_value/><require_if_field/><sys_id>fc3d7e0a13fe4a32ab28db017560be32</sys_id><require_if_field_value/><array_name_title/><sys_updated_by>Ravi</sys_updated_by><array_value_title/><sys_created_on>2020-06-07 20:01:13</sys_created_on><field_value/><no_space_if_hidden>true</no_space_if_hidden><require_if_visible>true</require_if_visible><sys_created_by>Ravi</sys_created_by><int_field_min/><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id><show_if_field>choiceField1</show_if_field><boolean_yes_value/><form_col_span>1</form_col_span><field_length/><form_end_row>true</form_end_row><label>From JobName</label><int_field_max/><choice_allow_empty>false</choice_allow_empty><sequence>8</sequence><show_if_field_value>copy_job</show_if_field_value><form_row_span>1</form_row_span><default_list_view>false</default_list_view><hint>give the existing from where its needs to be copied eg: demo_job or folder/demo_job</hint><field_mapping>textField4</field_mapping><name>from_job</name><field_regex/><field_type>1</field_type></ops_unv_tmplt_field><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>024076a5a1ff4ac6858066ce3bf257d9</sys_id><sequence>13</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 21:50:42</sys_created_on><field_value_label>Delete Job</field_value_label><field_value>delete_job</field_value><sys_updated_on>2020-06-07 21:50:42</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>048bb46443ed443eb57084c7a30a3a25</sys_id><sequence>7</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:16:58</sys_created_on><field_value_label>Enable Nodes</field_value_label><field_value>enable_node</field_value><sys_updated_on>2020-06-07 20:27:10</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>1518de3e788e4af29df83f4c37fe044d</sys_id><sequence>11</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 20:19:16</sys_created_on><field_value_label>Enable Job</field_value_label><field_value>enable_job</field_value><sys_updated_on>2020-06-07 20:27:10</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>1ace6ffc346b4702bb02b2473e2214aa</sys_id><sequence>8</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:17:16</sys_created_on><field_value_label>Disable Node</field_value_label><field_value>disable_node</field_value><sys_updated_on>2020-06-07 20:27:10</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>3cfe5a0035324353bd6be945fb340ff9</sys_id><sequence>16</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-09 16:25:43</sys_created_on><field_value_label>Install Plugin</field_value_label><field_value>install_plugin</field_value><sys_updated_on>2020-06-09 16:25:43</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>4de31bc082cf46cb83af0a58c7dbbcd7</sys_id><sequence>10</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:57:33</sys_created_on><field_value_label>Rename_Job</field_value_label><field_value>rename_job</field_value><sys_updated_on>2020-06-07 20:27:10</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>5ae782b942cb466798935d072c3aaee8</sys_id><sequence>4</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:15:11</sys_created_on><field_value_label>Start a Jenkins Build Job</field_value_label><field_value>start_build</field_value><sys_updated_on>2020-06-07 20:27:09</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>6362b046f561439ba545340e6d2a9a24</sys_id><sequence>14</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-09 15:16:27</sys_created_on><field_value_label>Get console Output for a Build</field_value_label><field_value>get_output_build</field_value><sys_updated_on>2020-06-09 15:16:27</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>8b6787263dd64507b0f76da76786572f</sys_id><sequence>5</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:15:54</sys_created_on><field_value_label>List Running builds</field_value_label><field_value>list_running_builds</field_value><sys_updated_on>2020-06-07 20:27:10</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>98c88ff3d59d4d8c8117695b99653f39</sys_id><sequence>9</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:17:44</sys_created_on><field_value_label>Copy Job</field_value_label><field_value>copy_job</field_value><sys_updated_on>2020-06-07 20:27:10</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>99970cdff3a1449bb7fc005adf847305</sys_id><sequence>15</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-09 16:25:10</sys_created_on><field_value_label>Get-All-Plugins-Info</field_value_label><field_value>get_plugins</field_value><sys_updated_on>2020-06-09 16:25:10</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>b6d6c635664143cd99e2aead494a531e</sys_id><sequence>1</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:12:53</sys_created_on><field_value_label>Create Jenkins Job</field_value_label><field_value>create_new_job</field_value><sys_updated_on>2020-06-07 19:12:53</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>bfb84000665f41d7aff58c87a6a9346d</sys_id><sequence>12</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 20:19:40</sys_created_on><field_value_label>Disable Job</field_value_label><field_value>disable_job</field_value><sys_updated_on>2020-06-07 20:27:10</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>c38383f007594efdb82d2c74f23e551e</sys_id><sequence>2</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 20:27:01</sys_created_on><field_value_label>Get Last Build Number</field_value_label><field_value>get_last_build_number</field_value><sys_updated_on>2020-06-07 20:27:09</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>dddcdd35dc804cf1b16d38e408365031</sys_id><sequence>3</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:13:50</sys_created_on><field_value_label>Set Next build number</field_value_label><field_value>update_next_build_number</field_value><sys_updated_on>2020-06-07 20:27:09</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice><ops_unv_tmplt_field_choice action="INSERT_OR_UPDATE"><field_id>633688a52aeb41269a1a988229c7883f</field_id><use_field_value_for_label>false</use_field_value_for_label><sys_id>eaa87ad3d2e347fbbcf099f5413a942f</sys_id><sequence>0</sequence><sys_updated_by>Ravi</sys_updated_by><sys_created_on>2020-06-07 19:12:24</sys_created_on><field_value_label>Get Job's Build Information </field_value_label><field_value>get_build_info</field_value><sys_updated_on>2020-06-07 19:12:24</sys_updated_on><sys_created_by>Ravi</sys_created_by><universal_template_id>966d9c10da6f4a339d39c07b5c7851e7</universal_template_id></ops_unv_tmplt_field_choice></related_items_node></ops_unv_tmplt></unload>
